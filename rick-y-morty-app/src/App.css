@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --color-principal-celeste: #BBE0F2;
+    --color-principal-verde:#AEE6E3;
+    --color-blanco:#FCFAFB;
+    --color-gris:#DBD6D0;
+
+}

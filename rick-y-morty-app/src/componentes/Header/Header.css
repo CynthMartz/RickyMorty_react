@@ -1,0 +1,16 @@
+
+.navbar{
+    width: 100%;
+    background-color:var(--color-principal-verde);
+    height: 150px;
+    
+}
+.container{
+    padding:0 20%;
+}
+
+.titulo{
+    width: 50% ;
+    height: auto;
+    
+}
